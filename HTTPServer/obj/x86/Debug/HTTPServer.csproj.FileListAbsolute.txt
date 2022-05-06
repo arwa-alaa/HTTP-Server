@@ -1,0 +1,16 @@
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+D:\pdfs\Network\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+D:\pdfs\Network\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+D:\pdfs\Network\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+D:\pdfs\Network\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+D:\pdfs\Network\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+D:\pdfs\Network\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+E:\5th Term\Computer Networks\Project\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+E:\5th Term\Computer Networks\Project\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+E:\5th Term\Computer Networks\Project\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csprojAssemblyReference.cache
+E:\5th Term\Computer Networks\Project\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+E:\5th Term\Computer Networks\Project\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+E:\5th Term\Computer Networks\Project\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
